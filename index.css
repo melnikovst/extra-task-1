@@ -496,5 +496,12 @@
   font-weight: 600;
   font-size: 18px;
   line-height: 25px;
-  color: #333333;
+  max-height: 25px;
+  max-width: 81px;
+  white-space: nowrap;
+}
+
+.footer__link {
+  text-decoration: none;
+  color: #8D8D8D;
 }

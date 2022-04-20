@@ -401,8 +401,8 @@
   width: 1152px;
   height: 455px;
   background-image: 
-  url(/images/left.png),
-  url(/images/right.png);
+  url(./images/left.png),
+  url(./images/right.png);
   background-position: left bottom, right bottom;
   background-repeat: no-repeat;
   background-size: contain;

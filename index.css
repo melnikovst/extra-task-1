@@ -460,14 +460,14 @@
   width: 644px;
   height: 455px;
   z-index: -5;
-  background-image: url(/images/left.png);
+  background-image: url(./images/left.png);
 }
 
 .right {
   width: 508px;
   z-index: -5;
   height: 455px;
-  background-image: url(/images/right.png);
+  background-image: url(./images/right.png);
 }
 
 .columns__links {
